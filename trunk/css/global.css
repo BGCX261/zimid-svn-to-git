@@ -1,0 +1,66 @@
+body {
+	border: none;
+}
+
+a {
+	border: none;
+	text-decoration: none;
+}
+
+a img {
+
+	border: none;
+
+}
+
+a.delete:hover {
+	background: #c00;
+	color: #fff;
+}
+
+
+#login {
+	background: #fff;
+	border: 1px solid #a2a2a2;
+	margin: 5em auto;
+	padding: 1.5em;
+	width: 25em;
+}
+
+#login #login_error {
+	background: #c00;
+	border: 1px solid #a40000;
+	color: #fff;
+	font-size: 16px;
+	font-weight: bold;
+	padding: .5em;
+	text-align: center;
+}
+
+.logo {
+}
+
+
+.login-button {
+	border: 1px solid #a2a2a2;
+}
+
+.login-label {
+	font-size: 0.8em;
+}
+
+input.sexy {
+               background: url(../img/openid.gif) no-repeat; 
+               background-color: #fff; 
+               background-position: 0 50%;
+               color: #000;
+               padding-left: 18px; 
+            }
+div.alert {
+                margin: 5px auto;
+                border:1px solid #e7dc2b;
+                background: #fff888;
+                width:280px;
+                text-align:left;
+                padding: 5px;
+            }
